@@ -5,15 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b335af5-2eec-4595-b688-eaa77436dfc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dmdev/dao/integration/userDaoIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dmdev/service/integration/UserServiceIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dmdev/util/LocalDateFormatterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dmdev/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/dmdev/dao/UserDaoTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/time/format/DateTimeParseException.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -31,13 +49,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dmdev.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in junit5-trainer">
+    <configuration name="All in junit5-trainer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5-trainer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalDateFormatterTest.throwExceptionIfBadDateFormat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5-trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dmdev.util" />
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.util.LocalDateFormatterTest" />
+      <option name="METHOD_NAME" value="throwExceptionIfBadDateFormat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userDaoIT$FindByEmailAndPassword.deleteUserFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5-trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.dao.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dmdev.dao.integration.userDaoIT" />
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.dao.integration.userDaoIT$FindByEmailAndPassword" />
+      <option name="METHOD_NAME" value="deleteUserFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userDaoIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5-trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.dao.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dmdev.dao.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.dao.integration.userDaoIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userDaoIT.saveUserSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5-trainer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.dao.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dmdev.dao.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.dao.integration.userDaoIT" />
+      <option name="METHOD_NAME" value="saveUserSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in junit5-trainer" />
+        <item itemvalue="JUnit.userDaoIT.saveUserSuccess" />
+        <item itemvalue="JUnit.userDaoIT" />
+        <item itemvalue="JUnit.LocalDateFormatterTest.throwExceptionIfBadDateFormat" />
+        <item itemvalue="JUnit.userDaoIT$FindByEmailAndPassword.deleteUserFail" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +155,10 @@
       <updated>1663251696079</updated>
       <workItem from="1663251697738" duration="161000" />
       <workItem from="1663345055138" duration="326000" />
+      <workItem from="1663361186102" duration="2585000" />
+      <workItem from="1663395344865" duration="13981000" />
+      <workItem from="1663410246202" duration="5183000" />
+      <workItem from="1663501419270" duration="17207000" />
     </task>
     <servers />
   </component>
@@ -64,5 +175,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/junit5_trainer$UserServiceIT.ic" NAME="UserServiceIT Coverage Results" MODIFIED="1663508278307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dmdev.service.integration.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit5_trainer$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1663403963201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dmdev.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit5_trainer$userDaoIT.ic" NAME="userDaoIT Coverage Results" MODIFIED="1663508137476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dmdev.dao.integration.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit5_trainer$All_in_junit5_trainer.ic" NAME="All in junit5-trainer Coverage Results" MODIFIED="1663512111813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
